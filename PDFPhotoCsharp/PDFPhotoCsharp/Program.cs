@@ -16,7 +16,9 @@ namespace PDFPhotoCsharp
                 var graphics = PdfSharp.Drawing.XGraphics.FromPdfPage(page);
                 var textFormatter = new PdfSharp.Drawing.Layout.XTextFormatter(graphics);
 
-                graphics.DrawImage(PdfSharp.Drawing.XImage.FromFile(@"C:\Users\leona\Pictures\220582.jpg"), 1, 1, page.Width, page.Height);
+                var Foto = @"C:\Users\leona\Pictures\IMG_20140412_174325270.jpg";  
+
+                graphics.DrawImage(PdfSharp.Drawing.XImage.FromFile($@"{Foto}"), 1, 1, page.Width, page.Height);
 
                 doc.Save("arquivo.pdf");
                 System.Diagnostics.Process.Start("arquivo.pdf");
