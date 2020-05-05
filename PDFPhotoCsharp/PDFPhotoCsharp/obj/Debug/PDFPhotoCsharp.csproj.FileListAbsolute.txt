@@ -1,0 +1,14 @@
+C:\Users\leona\source\repos\Visulizador_fotos_PDF\PDFPhotoCsharp\PDFPhotoCsharp\bin\Debug\PDFPhotoCsharp.exe.config
+C:\Users\leona\source\repos\Visulizador_fotos_PDF\PDFPhotoCsharp\PDFPhotoCsharp\bin\Debug\PDFPhotoCsharp.exe
+C:\Users\leona\source\repos\Visulizador_fotos_PDF\PDFPhotoCsharp\PDFPhotoCsharp\bin\Debug\PDFPhotoCsharp.pdb
+C:\Users\leona\source\repos\Visulizador_fotos_PDF\PDFPhotoCsharp\PDFPhotoCsharp\bin\Debug\PdfSharp.Charting.dll
+C:\Users\leona\source\repos\Visulizador_fotos_PDF\PDFPhotoCsharp\PDFPhotoCsharp\bin\Debug\PdfSharp.dll
+C:\Users\leona\source\repos\Visulizador_fotos_PDF\PDFPhotoCsharp\PDFPhotoCsharp\bin\Debug\PdfSharp.xml
+C:\Users\leona\source\repos\Visulizador_fotos_PDF\PDFPhotoCsharp\PDFPhotoCsharp\bin\Debug\PdfSharp.Charting.xml
+C:\Users\leona\source\repos\Visulizador_fotos_PDF\PDFPhotoCsharp\PDFPhotoCsharp\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\leona\source\repos\Visulizador_fotos_PDF\PDFPhotoCsharp\PDFPhotoCsharp\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\leona\source\repos\Visulizador_fotos_PDF\PDFPhotoCsharp\PDFPhotoCsharp\obj\Debug\PDFPhotoCsharp.csprojAssemblyReference.cache
+C:\Users\leona\source\repos\Visulizador_fotos_PDF\PDFPhotoCsharp\PDFPhotoCsharp\obj\Debug\PDFPhotoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Visulizador_fotos_PDF\PDFPhotoCsharp\PDFPhotoCsharp\obj\Debug\PDFPhotoCsharp.csproj.CopyComplete
+C:\Users\leona\source\repos\Visulizador_fotos_PDF\PDFPhotoCsharp\PDFPhotoCsharp\obj\Debug\PDFPhotoCsharp.exe
+C:\Users\leona\source\repos\Visulizador_fotos_PDF\PDFPhotoCsharp\PDFPhotoCsharp\obj\Debug\PDFPhotoCsharp.pdb
